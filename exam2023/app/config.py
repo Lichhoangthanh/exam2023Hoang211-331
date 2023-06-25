@@ -6,10 +6,6 @@ MYSQL_PASSWORD = '12345678'
 MYSQL_HOST = 'std-mysql.ist.mospolytech.ru'
 MYSQL_DATABASE = 'std_2082_exam'
 
-# MYSQL_USER = 'std_2178_exam_211_351'
-# MYSQL_PASSWORD = 'quannguyen2002'
-# MYSQL_HOST = 'std-mysql.ist.mospolytech.ru'
-# MYSQL_DATABASE = 'std_2178_exam_211_351'
 
 ADMIN_ROLE_ID = 1
 MODERATOR_ROLE_ID = 2
